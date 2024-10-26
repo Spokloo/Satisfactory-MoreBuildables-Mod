@@ -21,6 +21,13 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
+	"Modules": [
+        	{
+            		"Name": "MoreBuildables",
+            		"Type": "Runtime",
+            		"LoadingPhase": "Default"
+        	}
+    	],
 	"SemVersion": "1.0.0",
 	"GameVersion": ">=365306"
 }
