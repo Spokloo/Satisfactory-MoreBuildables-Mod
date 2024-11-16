@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
+	"Version": 0,
+	"VersionName": "0.1.0",
 	"FriendlyName": "More Buildables",
 	"Description": "Get more buildables such as foundations or walls to make your factory look better!",
 	"Category": "Modding",
@@ -21,6 +21,13 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=365306"
+	"Modules": [
+		{
+			"Name": "MoreBuildables",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SemVersion": "0.1.0",
+	"GameVersion": ">=377620"
 }
