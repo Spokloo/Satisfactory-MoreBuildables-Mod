@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.1.0",
+	"FriendlyName": "More Buildables",
+	"Description": "Get more buildables such as foundations or walls to make your factory look better!",
+	"Category": "Modding",
+	"CreatedBy": "Spokloo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		}
+	],
+	"Modules": [
+		{
+			"Name": "MoreBuildables",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SemVersion": "0.1.0",
+	"GameVersion": ">=377620"
+}
