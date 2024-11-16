@@ -98,4 +98,4 @@ If you encounter any bugs that are not listed in the `Known bugs` category, feel
 
 Special thanks to Rex, AngryBeaver, Robb, and D4rk which have been much more helpful than I can express.
 
-Made with <3 by Spokloo
+Made with <3 by Spokloo.
