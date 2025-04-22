@@ -87,7 +87,7 @@ Every buildables should be unlockable directly in the AWESOME Shop.
 
 ### Known bugs
 
-- Changing default foundation swatch doesn't instantly change the color of the foundation. It needs to be updated by hovering over it with the disassembly tool for example. Foundations affected are: Quarter foundations set.
+- **MB#1:** Changing default foundation swatch doesn't instantly change the color of the foundation. It needs to be updated by hovering over it with the disassembly tool for example. Foundations affected are: Quarter foundations set.
 
 ---
 
