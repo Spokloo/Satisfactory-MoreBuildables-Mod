@@ -15,20 +15,22 @@ This mod aims to keep the vanilla feel to the experience and therefore adds buil
 
 ---
 
-### Screenshots
-
-*Overview of all the quarter foundations variants*
-![Overview of all the quarter foundations variants](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/Resources/Screenshots/QuarterFoundationsSetOverview.png?raw=true "Overview of all the quarter foundations variants")
-
----
-
 ### Features
 
-Every buildables should be unlockable directly in the AWESOME Shop.
+Every buildable can be unlocked directly in the AWESOME Shop.
 
 #### Foundations
 
-- Quarter Foundations Set (1m, 2m, 4m) for all materials
+- Quarter Foundations Set (1m, 2m, 4m) for all materials.
+
+---
+
+### Screenshots
+
+#### Quarter Foundations Set
+
+*Overview of all the quarter foundations variants*
+![Overview of all the quarter foundations variants](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/Resources/Screenshots/QuarterFoundationsSetOverview.png?raw=true "Overview of all the quarter foundations variants")
 
 ---
 
