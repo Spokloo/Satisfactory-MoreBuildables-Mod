@@ -4,7 +4,7 @@
 
 <span style="color:red">For now there are only quarter foundations but there will be a lot more buildables in the future.</span>
 
-**Current version:** `v0.1.0`
+**Current version:** `v1.0.0`
 
 ---
 
