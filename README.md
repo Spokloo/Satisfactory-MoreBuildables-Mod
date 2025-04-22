@@ -4,7 +4,8 @@
 
 <span style="color:red">For now there are only quarter foundations but there will be a lot more buildables in the future.</span>
 
-**Current version:** `v1.0.0`
+**Current version:** `v1.0.0`\
+**Released on:** `23/04/2025`
 
 ---
 
@@ -27,7 +28,7 @@ Every buildables should be unlockable directly in the AWESOME Shop.
 
 #### Foundations
 
-- Quarter Foundations (1m, 2m, 4m) of all materials
+- Quarter Foundations Set (1m, 2m, 4m) for all materials
 
 ---
 
@@ -86,9 +87,7 @@ Every buildables should be unlockable directly in the AWESOME Shop.
 
 ### Known bugs
 
-#### Quarter Foundations
-
-- Changing default foundation swatch doesn't instantly change the color of the foundation. It needs to be updated by hovering over it with the disassembly tool for example.
+- Changing default foundation swatch doesn't instantly change the color of the foundation. It needs to be updated by hovering over it with the disassembly tool for example. Foundations affected are: Quarter foundations set.
 
 ---
 
