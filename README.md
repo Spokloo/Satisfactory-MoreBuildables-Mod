@@ -5,7 +5,7 @@
 <span style="color:red">For now there are only quarter foundations but there will be a lot more buildables in the future.</span>
 
 **Current version:** `v1.0.0`\
-**Released on:** `23/04/2025`
+**Released on:** `31/05/2025`
 
 ---
 
@@ -89,7 +89,7 @@ Every buildable can be unlocked directly in the AWESOME Shop.
 
 ### Known bugs
 
-- **MB#1:** Changing default foundation swatch doesn't instantly change the color of the foundation. It needs to be updated by hovering over it with the disassembly tool for example. Foundations affected are: Quarter foundations set.
+None
 
 ---
 
