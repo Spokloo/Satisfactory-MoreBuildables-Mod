@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "FGBuildable.h"
+#include "Buildables/FGBuildable.h"
 #include "FGRecipe.h"
 #include "FGFactoryColoringTypes.h"
 
@@ -21,7 +21,7 @@ struct FRecipeMaterialStruct
 	GENERATED_USTRUCT_BODY()
 
 	UPROPERTY(BlueprintReadWrite)
-	UFGFactoryCustomizationDescriptor_Material* material_desc;
+	TObjectPtr<UFGFactoryCustomizationDescriptor_Material> material_desc;
 
 	UPROPERTY(BlueprintReadWrite)
 	TArray<TSubclassOf<UFGRecipe>> recipes;

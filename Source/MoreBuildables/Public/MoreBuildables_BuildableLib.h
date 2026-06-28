@@ -2,13 +2,13 @@
 
 #pragma once
 
-#include "FGBuildable.h"
-#include "FGBuildingDescriptor.h"
+#include "Buildables/FGBuildable.h"
+#include "Resources/FGBuildingDescriptor.h"
 #include "FGFactoryColoringTypes.h"
 #include "FGRecipe.h"
-#include "FGUnlock.h"
-#include "FGUnlockSchematic.h"
-#include "FGUnlockRecipe.h"
+#include "Unlocks/FGUnlock.h"
+#include "Unlocks/FGUnlockSchematic.h"
+#include "Unlocks/FGUnlockRecipe.h"
 
 #include "MoreBuildables_Structs.h"
 
@@ -27,15 +27,6 @@ class MOREBUILDABLES_API UMoreBuildables_BuildableLib : public UBlueprintFunctio
 	GENERATED_BODY()
 
 public:
-	/**
-	 * Add all recipes in `unlock_recipes` to the recipes that `schematic` will unlock.
-	 *
-	 * @param schematic			Pointer to UFGSchematic. Schematic that will be updated with the new recipes in `unlock_recipes`.
-	 * @param unlock_recipes	Array of UFGRecipe. Contains the recipes that will be added to `schematic`.
-	 */
-	UFUNCTION(BlueprintCallable, Category = "MakeBuildables")
-	static void SchematicUnlockRecipes(UFGSchematic* schematic, TArray<TSubclassOf<UFGRecipe>> unlock_recipes);
-
 	/**
 	 * Add all schematics in `unlock_schematics` to the schematics that `schematic` will unlock.
 	 *
