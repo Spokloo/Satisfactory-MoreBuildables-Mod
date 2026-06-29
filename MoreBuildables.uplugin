@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.1.0",
 	"FriendlyName": "More Buildables",
 	"Description": "Get more buildables such as foundations or walls to make your factory look better!",
 	"Category": "Modding",
 	"CreatedBy": "Spokloo",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"CreatedByURL": "https://github.com/Spokloo",
+	"DocsURL": "https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/README.md",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -18,7 +18,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.0"
+			"SemVersion": "^3.12.0"
 		}
 	],
 	"Modules": [
@@ -28,6 +28,7 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=410840"
+	"SemVersion": "1.1.0",
+	"GameVersion": ">=491125",
+	"BuiltInInitialFeatureState": "Active"
 }
