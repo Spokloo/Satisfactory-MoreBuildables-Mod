@@ -1,9 +1,9 @@
 ## More Buildables - a Satisfactory Mod
 
-### <span style="color:red">MOD CURRENTLY UNDER DEVELOPMENT. EXPECT BUGS.</span>
+### <span style="color:red">MOD CURRENTLY UNDER DEVELOPMENT</span>
 
-**Current version:** `v1.1.0`\
-**Released on:** `29/06/2026`
+**Current version:** `v1.2.0`\
+**Released on:** `10/11/2026`
 
 [![github repo url](https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github)](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod)
 [![ficsit.app url](https://img.shields.io/badge/ficsit.app-A2D9FF?style=for-the-badge)](https://ficsit.app/mod/MoreBuildables)
@@ -29,20 +29,17 @@ Each foundation is available in all variants (1m, 2m, 4m) and in all materials.
 - Outer Corner Ramps
 - Inverted Inner Corner Ramps
 - Inverted Outer Corner Ramps
+- Half Ramps
+- Inverted Half Ramps
 
 ---
 
 ### Screenshots
 
-#### Quarter Foundations Set
+#### All foundation types
 
-*Overview of all the quarter foundations variants*
-![Overview of all the quarter foundations variants](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/Resources/Screenshots/QuarterFoundationsSetOverview.png?raw=true "Overview of all the quarter foundations variants")
-
-#### All FICSIT foundation types
-
-*Overview of all the FICSIT foundation types. Available for all materials*
-![Overview of all the FICSIT foundation types](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/Resources/Screenshots/NewFoundationsOverview.png?raw=true "Overview of all the FICSIT foundation types")
+*Overview of all the added foundations*
+![Overview of all the added foundations](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/blob/master/Resources/Screenshots/AllFoundationTypesOverview.gif?raw=true "Overview of all the added foundations")
 
 ---
 
@@ -54,8 +51,6 @@ Please send me any feedback via Discord at `@spokloo` or open an [issue](https:/
 
 #### Foundations
 
-- Half Ramps
-- Inverted Half Ramps
 - Inner Corner Stairs
 - Outer Corner Stairs
 - Inverted Stairs
@@ -102,6 +97,7 @@ Please send me any feedback via Discord at `@spokloo` or open an [issue](https:/
 ### Known bugs
 
 - [#9](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/issues/9): Inverted Inner/Outer Corner Ramps don't show the FICSIT material when it is the first unlocked foundation within its subcategory. If you encounter this bug, unlock another type of foundation in the same subcategory and it should fix itself.
+- [#11](https://github.com/Spokloo/Satisfactory-MoreBuildables-Mod/issues/11): Patterns don't show up properly on all added foundations.
 
 ---
 
